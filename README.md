@@ -20,7 +20,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="80" src="globe.gif">
 </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Music" src="music.gif"> 
 </a>
 </p>
 
@@ -44,7 +44,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
