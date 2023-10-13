@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  < height="50" alt="My Name is Michael and I rebuilding my website rn" src="My Name is Michael and I rebuilding my website rn" />  <br />
+  <img height="50" alt="My Name is Michael and I rebuilding my website rn" src="My Name is Michael and I rebuilding my website rn" />  <br />
   <br />
 
 </div>
